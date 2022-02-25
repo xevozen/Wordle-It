@@ -1,4 +1,4 @@
-# [![Project Logo](icon.png)Wordle It](https://xevozen.github.io/Wordle-It) 
+# [Wordle It](https://xevozen.github.io/Wordle-It) 
 
 [![Initial Author: Souhardhya Paul](https://img.shields.io/badge/Initial%20Author-Souhardhya%20Paul-red)](https://github.com/xevozen)
 

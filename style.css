@@ -13,9 +13,19 @@ section{
 	
 }
 p{
-
 	text-align: justify;
 	text-justify: inter-word;
+}
+.loader{
+	background-color: #ccdbfd;
+	position: fixed;
+	z-index: 10;
+	top: 0;
+	left: 0;
+	height: 110%;
+}
+.loader img{
+	/*width: 40%*/;
 }
 .navbar{
 	background-color: #abc4ff!important;

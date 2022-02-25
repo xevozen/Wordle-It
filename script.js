@@ -42,6 +42,7 @@ function setParams(){
     }
     document.getElementById("section1").style.height = "500px";
     document.getElementById("wordle-word").innerText = Decode();
+    document.getElementsByClassName("loader")[0].style.display = "none";
 }
 function Decode() {
         var e = new Date;

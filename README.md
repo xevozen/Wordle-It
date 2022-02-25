@@ -2,7 +2,7 @@
 
 [![Initial Author: Souhardhya Paul](https://img.shields.io/badge/Initial%20Author-Souhardhya%20Paul-red)](https://github.com/xevozen)
 -------------
-### :pushpin: Wordle It is a hack for the game Wordle to predict the word solution.
+### :pushpin: **''Wordle It''** is a hack for the game **Wordle** to predict the word solution.
 ### :rocket: Checkout the website:  [Here](https://xevozen.github.io/Wordle-It/)
 ### :alien: Play the game:  [Here](https://www.nytimes.com/games/wordle/index.html)
 

@@ -1,0 +1,42 @@
+:root {
+	/*--bs-font-sans-serif: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";*/
+	--bs-font-sans-serif: 'Poppins',Helvetica, Arial;
+}
+
+
+body{
+/*	background-color: #f8f9fa!important;*/
+	/*background-color: var(--bs-gray);*/
+	background-color: #ccdbfd;
+}
+section{
+	
+}
+p{
+
+	text-align: justify;
+	text-justify: inter-word;
+}
+.navbar{
+	background-color: #abc4ff!important;
+}
+.footer{
+	height: auto;
+	background-color: #abc4ff;
+}
+#wordle-word{
+	font-size: 64px;
+}
+#footer-info{
+	
+	margin: auto;
+	bottom: 10px;
+	border-radius: 10px;
+	border: 2px solid;
+	padding: 10px;
+	font-size: 12px;
+}
+#footer-info a{
+	text-decoration: none;
+	color: var(--bs-dark);
+}
